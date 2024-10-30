@@ -1,0 +1,1 @@
+salloc --account=si699s005f24_class --partition=gpu --gpus=1 --mem-per-gpu=8000 --cpus-per-gpu=3 --time=4:00:00

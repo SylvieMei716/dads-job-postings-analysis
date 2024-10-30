@@ -1,0 +1,16 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+train_labels: ./train/labels
+val_labels: ./valid/labels
+test_labels: ./test/labels
+
+nc: 2
+names: ['Tumor', 'undefined']
+
+roboflow:
+  workspace: yoloprojects
+  project: brain-tumor-detection-2103d
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yoloprojects/brain-tumor-detection-2103d/dataset/1
