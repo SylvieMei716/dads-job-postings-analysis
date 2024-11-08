@@ -1,3 +1,11 @@
+
+## Installation
+
+```
+python -m spacy download en_core_web_sm
+```
+
+## Structure
 ```
 Project/
 ├── README.md
