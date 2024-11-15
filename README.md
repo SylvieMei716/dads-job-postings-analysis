@@ -1,3 +1,5 @@
+## Nov 14 update message
+Please move the new ```industries.csv``` to your ```data``` folder.
 
 ## Installation
 
